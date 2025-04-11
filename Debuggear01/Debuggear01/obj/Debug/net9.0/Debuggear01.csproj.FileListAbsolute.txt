@@ -1,0 +1,14 @@
+D:\Amanda\Debugs\Debuggear01\Debuggear01\bin\Debug\net9.0\Debuggear01.exe
+D:\Amanda\Debugs\Debuggear01\Debuggear01\bin\Debug\net9.0\Debuggear01.deps.json
+D:\Amanda\Debugs\Debuggear01\Debuggear01\bin\Debug\net9.0\Debuggear01.runtimeconfig.json
+D:\Amanda\Debugs\Debuggear01\Debuggear01\bin\Debug\net9.0\Debuggear01.dll
+D:\Amanda\Debugs\Debuggear01\Debuggear01\bin\Debug\net9.0\Debuggear01.pdb
+D:\Amanda\Debugs\Debuggear01\Debuggear01\obj\Debug\net9.0\Debuggear01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Amanda\Debugs\Debuggear01\Debuggear01\obj\Debug\net9.0\Debuggear01.AssemblyInfoInputs.cache
+D:\Amanda\Debugs\Debuggear01\Debuggear01\obj\Debug\net9.0\Debuggear01.AssemblyInfo.cs
+D:\Amanda\Debugs\Debuggear01\Debuggear01\obj\Debug\net9.0\Debuggear01.csproj.CoreCompileInputs.cache
+D:\Amanda\Debugs\Debuggear01\Debuggear01\obj\Debug\net9.0\Debuggear01.dll
+D:\Amanda\Debugs\Debuggear01\Debuggear01\obj\Debug\net9.0\refint\Debuggear01.dll
+D:\Amanda\Debugs\Debuggear01\Debuggear01\obj\Debug\net9.0\Debuggear01.pdb
+D:\Amanda\Debugs\Debuggear01\Debuggear01\obj\Debug\net9.0\Debuggear01.genruntimeconfig.cache
+D:\Amanda\Debugs\Debuggear01\Debuggear01\obj\Debug\net9.0\ref\Debuggear01.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Amanda\\Debugs\\Debuggear01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98D38128-3844-4337-8D63-01C6FE136C28}|Debuggear01\\Debuggear01.csproj|d:\\amanda\\debugs\\debuggear01\\debuggear01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D38128-3844-4337-8D63-01C6FE136C28}|Debuggear01\\Debuggear01.csproj|solutionrelative:debuggear01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Amanda\\Debugs\\Debuggear01\\Debuggear01\\Program.cs",
+              "RelativeDocumentMoniker": "Debuggear01\\Program.cs",
+              "ToolTip": "D:\\Amanda\\Debugs\\Debuggear01\\Debuggear01\\Program.cs",
+              "RelativeToolTip": "Debuggear01\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA8wCQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T18:44:12.669Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
